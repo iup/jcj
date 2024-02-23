@@ -1,0 +1,25 @@
+{
+  "name": "jcj",
+  "version": "0.1.2",
+  "description": "Generate jsconfig.json for visual studio code",
+  "bin": {
+    "jcj": "lib/jcj.js"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cnio/jcj.git"
+  },
+  "keywords": [
+    "jsconfig.json",
+    "vscode"
+  ],
+  "author": "cnio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cnio/jcj/issues"
+  },
+  "homepage": "https://github.com/cnio/jcj"
+}
